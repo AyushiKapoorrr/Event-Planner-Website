@@ -325,3 +325,12 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+nav {
+  border: none !important; /* Remove any borders */
+  box-shadow: none !important; /* Remove shadows */
+  margin: 0 !important; /* Reset any external margin */
+  padding: 0 !important; /* Reset padding */
+}
+.container {
+  padding: 0 !important;
+}
