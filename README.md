@@ -1,1 +1,1 @@
-# Event-Planner-Website
+# Event-Planner-website
